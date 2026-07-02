@@ -45,3 +45,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya6743/Aditya6743/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
